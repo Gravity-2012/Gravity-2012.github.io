@@ -1,0 +1,10 @@
+body {background-color: rgb(148, 209, 172)}
+h1 {color: green;}
+
+h2 {color: rgb(183, 0, 255);
+    background-color: rgb(252, 185, 0)}
+
+h3 {color: rgb(92, 196, 97);
+        background-color: rgb(12, 129, 197)}
+
+#cats {color: black}
